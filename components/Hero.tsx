@@ -66,7 +66,7 @@ const Hero: React.FC = () => {
         >
           <div className="relative w-80 h-96 md:w-96 md:h-[500px] rounded-2xl overflow-hidden shadow-2xl border-4 border-dusty-grape transform rotate-3 hover:rotate-0 transition-transform duration-500">
             <img 
-              src="https://github.com/Ishibhavsar.png" 
+              src="/profile.jpg" 
               alt="Ishi Bhavsar" 
               className="w-full h-full object-cover"
             />
