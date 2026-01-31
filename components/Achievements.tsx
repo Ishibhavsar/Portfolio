@@ -20,7 +20,7 @@ const achievements: Achievement[] = [
     badge: 'PARTICIPANT',
     description: 'Engineered a gamified learning platform for Team HackNRun to increase rural student engagement. Built a teacher analytics dashboard using Node.js/MongoDB.',
     tags: ['Node.js', 'Gamification', 'Analytics'],
-    link: 'https://wadhwanisaransh2.github.io/HackNRun-Gamified-Learning-Platform-Project-/'
+    link: 'https://youtu.be/cpnoWL4YSlQ'
   },
   {
     id: 3,
